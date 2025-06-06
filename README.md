@@ -23,6 +23,7 @@ Cada ejercicio cuenta con su propio archivo de código y, en algunos casos, come
    git clone https://github.com/juanjose27capu/Ejercicios-C-Plus-Plus.git
    
 2️⃣ Explora las diferentes carpetas y archivos.
+
 3️⃣ Compila y ejecuta los programas con un compilador como GCC
 
 gcc nombre_archivo.c -o ejecutable
